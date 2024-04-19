@@ -1,8 +1,20 @@
+import math
 def roots(a, b, c):
-    return
+    discriminante = b**2 - 4*a*c
+    if discriminante > 0:
+        r1 = (-b + math.sqrt(discriminante))/2*a
+        r2 = (-b - math.sqrt(discriminante))/2*a
+        return f"{r1}, {r2}"
+    elif discriminante == 0
+        r1 = (-b)/2*a
+        return f"{r1}"
+    else:
+        return "()"
+        
 
 
 def value_y(a, b, c, x):
+    
     return
 
 
