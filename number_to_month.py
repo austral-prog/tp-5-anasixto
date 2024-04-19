@@ -25,5 +25,3 @@ def number_to_month(month):
         return "diciembre"
     else:
         return "error"
-
-print(number_to_month(month))
