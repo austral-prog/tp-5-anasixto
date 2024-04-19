@@ -14,13 +14,13 @@ def roots(a, b, c):
 
 
 def value_y(a, b, c, x):
-    y = a*(x**2)+b*x+c
+    y = a*(x**2)+b*X+c
     return f"{y}"
 
 
 def to_string(a, b, c):
-    return f"f(x) = {a} * (x**2) + {b}*x + {c}"
+    return f"f(x) = {a} * (x**2) + {b}*X + {c}"
 
 
 def derivation(a, b):
-    return f"f(x) = 2*{a}*x + {b}"
+    return f"f(x) = 2*{a}*X + {b}"
