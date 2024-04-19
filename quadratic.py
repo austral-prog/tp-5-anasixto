@@ -26,7 +26,7 @@ def to_string(a, b, c):
     elif a!=0 and b!=0 and c==0:
         return f"f(x) = {a} * x**2 + {b} * x"
 
-def derivation(a, b):
+def derivation(a, b, c):
     if a!=0 and b!=0:
         return f"f'(x) = {2*a} * x + {b}"
     elif a==0 and b!=0:
