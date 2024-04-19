@@ -21,5 +21,5 @@ def to_string(a, b, c):
     return f"f(x) = {a} * (x**2) + {b}*x + {c}"
 
 
-def derivation(a, b, c):
+def derivation(a, b):
     return f"f(x) = {2*a}*x + {b}"
