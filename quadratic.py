@@ -13,7 +13,7 @@ def roots(a, b, c):
         
 
 def value_y(a, b, c, x):
-    y = a*(X**2) + b*x + c
+    y = a*(x**2) + b*x + c
     return f"{y}"
 
 
