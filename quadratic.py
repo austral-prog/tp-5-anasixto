@@ -1,16 +1,14 @@
-# Replace the "ANSWER HERE" for your answer
-
 def roots(a, b, c):
-    return "ANSWER HERE"
+    return
 
 
 def value_y(a, b, c, x):
-    return "ANSWER HERE"
+    return
 
 
 def to_string(a, b, c):
-    return "ANSWER HERE"
+    return
 
 
 def derivation(a, b):
-    return "ANSWER HERE"
+    return
